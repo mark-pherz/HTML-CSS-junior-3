@@ -20,6 +20,10 @@
   src: url("../fonts/OpenSans-Bold.woff2");
 }
 
+body {
+  min-width: 100vw;
+}
+
 .hero {
   background-image: url("../images/bg-hero-desktop.svg");
   background-color: var(--pale-cyan);
